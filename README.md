@@ -4,7 +4,7 @@ Repository to solve the challenges proposed in https://adventofcode.com/
 
 ## Challenges tracking
 
-- [ X ] Day 1
+- [X] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
